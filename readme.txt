@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Beautiful sticky header effects for block themes: a Chameleon header that recolours itself to match each section, frosted-glass blur, hide-on-scroll, and transparent overlay headers.
+Sticky header effects for block themes: a Chameleon header that recolours to match each section, frosted blur, hide-on-scroll and overlay.
 
 == Description ==
 
