@@ -1,0 +1,42 @@
+/**
+ * Jamie's Header Effects – admin styles
+ */
+.bsh-admin h1 {
+	margin-bottom: 0.5em;
+}
+.bsh-admin .bsh-description {
+	color: #646970;
+	margin-bottom: 1.5em;
+}
+.bsh-admin .form-table th {
+	width: 220px;
+}
+.bsh-admin .form-table input[type="number"] {
+	width: 100px;
+}
+.bsh-admin .form-table input.large-text {
+	width: 100%;
+	max-width: 480px;
+}
+.bsh-admin .bsh-color-picker {
+	width: 85px;
+	height: 28px;
+	padding: 2px;
+}
+
+.bsh-admin .bsh-opacity-slider-wrap {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	max-width: 280px;
+}
+
+.bsh-admin .bsh-opacity-slider {
+	flex: 1;
+	min-width: 120px;
+}
+
+.bsh-admin .bsh-opacity-value {
+	min-width: 40px;
+	font-weight: 500;
+}

@@ -1,0 +1,10 @@
+# Development-only files: kept in the GitHub repo, never shipped in the zip.
+README.md
+
+# WordPress.org listing assets (blueprint, screenshots, icon, banner). Pushed to
+# the SVN assets/ directory on release; never shipped inside the plugin zip.
+.wordpress-org
+.wordpress-org/**
+
+# Don't ship the ignore file itself.
+.pressshipignore
